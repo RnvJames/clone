@@ -27,7 +27,11 @@
     <body>
         <p>Hello !!!</p>
         <i>On est vendredi et c'est bientot le week end</i>
-        <p>Tuto Guild Wars 2 par Thufill</p>
+
+        
+
+        <p>take update</p>
+
     </body>
 </html>
 
