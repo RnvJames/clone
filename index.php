@@ -25,12 +25,13 @@
          </style>
     </head>
     <body>
+        <p>yo play</p>
         <p>Hello !!!</p>
         <i>On est vendredi et c'est bientot le week end</i>
 
-        
 
-        <p>take update</p>
+         <p>take update</p>
+
 
     </body>
 </html>
